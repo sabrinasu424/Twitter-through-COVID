@@ -3,8 +3,6 @@ Assessing Differential Sentiment across Counties through Crisis Progression
 
 Code for Twitter Analysis of Coronavirus-related Tweets
 
-Codes can also be found at https://github.com/aarthivenkat/Twitter-through-COVID which future updates might be applied to.
-
 Pre-processing-1.ipynb  and Pre-processing-2.ipynb  for preproccesing the collected raw twitter data, however, the processed data is included in the data file.
 
 LDA.ipynb  for building topic model and topic analysis. (Clear steps specified along with the code)
